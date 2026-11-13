@@ -1,12 +1,10 @@
 <div align="center">
 
 <div id="user-content-toc" style="margin-bottom: 50px">
-  <ul align="center" style="list-style: none;">
     <summary>
       <h1>Flow Matching Loss for Offline Flow Policy Reinforcement Learning</h1>
       <div style="height: 2px;"></div>
     </summary>
-  </ul>
 </div>
 
 </div>
