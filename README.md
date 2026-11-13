@@ -117,4 +117,4 @@ Pass the download directory with `--ogbench_dataset_dir=<path>`.
 
 ## Acknowledgments
 
-This codebase is built on top of the reference implementation of Reversal Q-Learning (RQL)(https://aober.ai/rql/).
+This codebase is built on top of the reference implementation of Reversal Q-Learning (RQL).
